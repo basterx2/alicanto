@@ -1,0 +1,28 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="alicanto-philippe.firebaseapp.com" resolutions="1x" timestamp="1546919980562">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3859027057" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="parallax0.jpg" crc="4287074902" ref="index"/>
+    <file name="parallax1.png" crc="3760078365" ref="index"/>
+    <file name="parallax2.png" crc="3763410363" ref="index"/>
+    <file name="parallax3.png" crc="4093764165" ref="index"/>
+    <file name="parallax4.png" crc="3865766432" ref="index"/>
+    <file name="parallax5.png" crc="447460851" ref="index"/>
+    <file name="parallax6.png" crc="167995357" ref="index"/>
+    <file name="parallax7.png" crc="3965744298" ref="index"/>
+    <file name="parallax8.png" crc="4170176920" ref="index"/>
+  </folder>
+  <file name="index.html" crc="86401327" seo="true" mt="1546919979967" redirect="true"/>
+</manifest>
